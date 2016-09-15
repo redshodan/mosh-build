@@ -4,7 +4,7 @@ cd /home/admin
 
 set -e
 
-export PACKAGE_NAME=${PACKAGE_NAME:-org.woltage.irssiconnectbot}
+export PACKAGE_NAME=${PACKAGE_NAME:-org.connectbot}
 
 export HOME=/home/admin
 export PATH=$PATH:/home/admin/droid/bin
